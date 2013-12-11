@@ -1,2 +1,2 @@
 all :
-	find . -name "*.md" > README.md
+	find . -name "*.md" > README.txt
