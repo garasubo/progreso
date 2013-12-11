@@ -1,0 +1,2 @@
+all :
+	find . -name "*.md"
